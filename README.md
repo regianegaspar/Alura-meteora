@@ -10,9 +10,9 @@
 </p>
 <br>
 
-<!-- <p align="center">
-<img alt="" src="" width="100%">
-</p> -->
+<p align="center">
+<img alt="Imagem do projeto Meteora" src="https://github.com/regianegaspar/Alura-meteora/blob/main/assets/meteora.PNG" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
